@@ -12,6 +12,11 @@ subprocess.run("apt upgrade -y",shell=True)
 # add path
 subprocess.run("cp 'menu/menu' '/bin/'",shell=True)
 subprocess.run("chmod +x /bin/menu",shell=True)
+
+#install ssh
+subprocess.run("bash tunnel.sh",shell=True)
+
+#install open VPN
 subprocess.run("bash tunnel.sh",shell=True)
 
 exit()
