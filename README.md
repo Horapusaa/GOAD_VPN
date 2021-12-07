@@ -1,21 +1,9 @@
 # GOAD_VPN
 
-Open VPN + SSH + HTTP Proxy + V2ray Multi Script
 
-
-### ✅ UPDATES & NEW FEATURES
-<a href="https://github.com/iamtrazy/rezoth-ssh"><img src="https://i.ibb.co/XSHtYQm/Screenshot-2.png" alt="Screenshot-2" border="0"></a> 
- 
-
-#### 25-06-2021 UPDATE ☑️
- ```
- - Added Loading Spinner and Added Font Colors
- - Default User Only Have Access to Tunnel.. (shell access disallowed) 
- ```
-   
    
 ### ★ About Script   
-Using Rezoth SSH-Script you can easily setup your server with ssh & This will make it easier for you as all the ports will be Auto Open ..
+Using Rezoth SSH-Script you can easily setup your server with Open VPN + SSH + HTTP Proxy + V2ray .
 
 ### ★ Manage Script
 
