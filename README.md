@@ -37,9 +37,4 @@ _- UDPGW Port  =  7300_<br>
  
  
 ## Code Owners 📦
-* [iamtrazy](https://github.com/imatrazy)
-* [HansanaDasanayaka](https://github.com/HansanaDasanayaka)
- 
- ## Support 👊
-<a href="https://t.me/Rezoth"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://t.me/rezoth_tm"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+* [horapusa](https://github.com/Horapusaa)
