@@ -28,6 +28,8 @@ _- Dropbear port   =  80 | 110_<br>
 _- SSL + Dropbear Port  =  443_<br>
 _- SSL + Openssh Port  =  444_<br>
 _- Squid Proxy Port  =  8080 (squid වැඩ කරන්න පෙලෝඩ් එකේ connect request එකක් තියෙන්න ඕනේ)_<br>
+_- Xray Http Port = 110_<br>
+_- Xray Xtls port = 25_<br>
 _- UDPGW Port  =  7300_<br>
 
 <a href="https://github.com/iamtrazy/rezoth-ssh"><img src="https://i.ibb.co/qpvCqQR/Screenshot-4.png" alt="Screenshot-1" border="0"></a>
