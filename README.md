@@ -31,8 +31,6 @@ _- Squid Proxy Port  =  8080 (squid වැඩ කරන්න පෙලෝඩ්
 _- Xray Http Port = 110_<br>
 _- Xray Xtls port = 25_<br>
 _- UDPGW Port  =  7300_<br>
-
-<a href="https://github.com/iamtrazy/rezoth-ssh"><img src="https://i.ibb.co/qpvCqQR/Screenshot-4.png" alt="Screenshot-1" border="0"></a>
  
 ## Code Owners 📦
 * [horapusa](https://github.com/Horapusaa)
