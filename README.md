@@ -5,11 +5,9 @@
 ### ★ About Script   
 Using Rezoth SSH-Script you can easily setup your server with Open VPN + SSH + HTTP Proxy + V2ray .
 
-### ★ Manage Script
-
 ### ★ Requirements
 
-_* Ubuntu 18.04 VPS [Recommended]. Also You Can Use Another Type Of VPS_<br>
+_* Ubuntu 20.04 VPS [Recommended]. Also You Can Use Another Type Of VPS_<br>
 
 ### ★ Installation
 
