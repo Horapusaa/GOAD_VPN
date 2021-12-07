@@ -46,8 +46,8 @@ _- Squid Proxy Port  =  8080 (squid වැඩ කරන්න පෙලෝඩ්
 _- Xray Http Port = 110_<br>
 _- Xray Xtls port = 25_<br>
 _- UDPGW Port  =  7300_<br>
-_- Default OpenVPN UDP Port = 1194 _<br>
-_- Default OpenVPN TCP Port = 123 _<br>
+_- Default OpenVPN UDP Port = 1194_<br>
+_- Default OpenVPN TCP Port = 123_<br>
  
 ## Code Owners 📦
 * [horapusa](https://github.com/Horapusaa)
