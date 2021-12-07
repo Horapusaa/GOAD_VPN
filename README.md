@@ -16,7 +16,8 @@ _* Ubuntu 20.04 VPS [Recommended]. Also You Can Use Another Type Of VPS_<br>
  ```
 
  ‼️Attention -: Please Use A Strong Password As Default Password.
-
+ ‼️Attention -: Please Change OpenVPN TCP Port To 123.
+ 
 ### ★ Applications That Can Used to Connect
 
 _1) Android -: HTTP Injecotr, Socks HTTP, David HTTP, HTTP Custom, V2ray NG_<br> 
@@ -31,6 +32,8 @@ _- Squid Proxy Port  =  8080 (squid වැඩ කරන්න පෙලෝඩ්
 _- Xray Http Port = 110_<br>
 _- Xray Xtls port = 25_<br>
 _- UDPGW Port  =  7300_<br>
+_- Default OpenVPN UDP Port = 1194 
+_- Default OpenVPN TCP Port = 123 
  
 ## Code Owners 📦
 * [horapusa](https://github.com/Horapusaa)
