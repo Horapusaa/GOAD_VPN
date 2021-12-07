@@ -34,3 +34,8 @@ _- UDPGW Port  =  7300_<br>
  
 ## Code Owners 📦
 * [horapusa](https://github.com/Horapusaa)
+* [iamtrazy](https://github.com/imatrazy)
+* [Stanislas](https://github.com/angristan)
+
+## Special Thanks To
+* [OpenVPN](https://openvpn.com)
