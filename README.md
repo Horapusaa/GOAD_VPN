@@ -12,9 +12,22 @@ _* Ubuntu 20.04 VPS [Recommended]. Also You Can Use Another Type Of VPS_<br>
 ### ★ Installation
 
 ``` 
- sudo wget https://raw.githubusercontent.com/iamtrazy/rezoth-ssh/main/ssh.sh && sudo chmod +x ssh.sh  && sudo ./ssh.sh 
+ sudo su
  ```
-
+``` 
+ git clone https://github.com/Horapusaa/GOAD_VPN
+ ```
+``` 
+ cd GOAD_VPN
+ ```
+``` 
+ chmod +x *
+ ```
+ ``` 
+ python3 main.py
+ ```
+ 
+ 
  ‼️Attention -: Please Use A Strong Password As Default Password.
  
  ‼️Attention -: Please Change OpenVPN TCP Port To 123.
