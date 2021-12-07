@@ -51,7 +51,7 @@ _- Default OpenVPN TCP Port = 123_<br>
  
 ## Code Owners 📦
 * [horapusa](https://github.com/Horapusaa)
-* [iamtrazy](https://github.com/imatrazy)
+* [iamtrazy](https://github.com/iamtrazy)
 * [Stanislas](https://github.com/angristan)
 
 ## Special Thanks To
