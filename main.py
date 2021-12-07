@@ -17,6 +17,10 @@ subprocess.run("chmod +x /bin/menu",shell=True)
 subprocess.run("bash tunnel.sh",shell=True)
 
 #install open VPN
-subprocess.run("bash open_vpn",shell=True)
+subprocess.run("bash open_vpn.sh",shell=True)
+
+
+#install Xray
+subprocess.run("bash Xray.sh",shell=True)
 
 exit()
