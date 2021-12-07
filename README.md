@@ -19,8 +19,8 @@ _* Ubuntu 20.04 VPS [Recommended]. Also You Can Use Another Type Of VPS_<br>
 
 ### ★ Applications That Can Used to Connect
 
-_1) Android -: HTTP Injecotr, Socks HTTP, David HTTP, HTTP Custom_<br> 
-2) Windows -: SVL Injector, HTTP Proxy Injector
+_1) Android -: HTTP Injecotr, Socks HTTP, David HTTP, HTTP Custom, V2ray NG_<br> 
+2) Windows -: SVL Injector, HTTP Proxy Injector , Netch
 
 ### ★ Default Ports & Doors
 _- Openssh Port = 22_<br>
