@@ -3,7 +3,7 @@
 
    
 ### ★ About Script   
-Using Rezoth SSH-Script you can easily setup your server with Open VPN + SSH + HTTP Proxy + V2ray .
+Using GOAD_VPN-Script you can easily setup your server with Open VPN + SSH + HTTP Proxy + V2ray .
 
 ### ★ Requirements
 
