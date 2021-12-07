@@ -16,6 +16,7 @@ _* Ubuntu 20.04 VPS [Recommended]. Also You Can Use Another Type Of VPS_<br>
  ```
 
  ‼️Attention -: Please Use A Strong Password As Default Password.
+ 
  ‼️Attention -: Please Change OpenVPN TCP Port To 123.
  
 ### ★ Applications That Can Used to Connect
